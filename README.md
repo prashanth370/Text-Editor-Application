@@ -2,7 +2,9 @@
 
 A modern text editor with live preview and responsive design capabilities, built with Next.js and Tailwind CSS.
 
-![Preview Screenshot](public/screenshot.png) <!-- Add your screenshot here -->
+<!-- Add your screenshot here -->
+![image](https://github.com/user-attachments/assets/df99dc04-445c-4859-9192-91297acab626)
+
 
 ## Features
 
