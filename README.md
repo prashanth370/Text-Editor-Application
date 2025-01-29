@@ -37,3 +37,7 @@ A modern text editor with live preview and responsive design capabilities, built
    ```bash
    https://github.com/prashanth370/Text-Editor-Application.git
    cd text-editor-app
+
+2. **Live Link**
+   ```bash
+   https://text-editor-application-psi.vercel.app/
